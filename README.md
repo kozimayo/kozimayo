@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kozimayo
-- 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning web development
 
 <!---
